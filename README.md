@@ -31,7 +31,7 @@ She/Her
 
 ⚡ **Fun Fact**
 
-I love hiking and have conquered some of the tallest peaks in my region!
+I love solving puzzles and organizing tech events!
 
 
 ## GSSOC(24) Badges 🪶
