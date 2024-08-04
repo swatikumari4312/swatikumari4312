@@ -1,4 +1,5 @@
 Hi there 👋, **I'm Swati Kumari!**
+
 👀 **About Me**
 I'm passionate about coding and constantly exploring new technologies. I love solving problems and building projects that can make a difference.
 
