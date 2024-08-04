@@ -22,6 +22,7 @@ Hackathons and coding competitions
 📫 **How to Reach Me**
 
 Email: swatikumari8270@example.com
+
 LinkedIn: https://www.linkedin.com/in/swati-kumari-970839250/
 
 😄 **Pronouns**
