@@ -1,4 +1,4 @@
-                                               Hi there 👋, **I'm Swati Kumari!**
+Hi there 👋, **I'm Swati Kumari!**
 
 👀 **About Me**
 
