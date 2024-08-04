@@ -9,6 +9,7 @@ I'm passionate about coding and constantly exploring new technologies. I love so
 I'm currently diving into:
 
 Java: Enhancing my skills in Java.
+
 React: Building projects with React.
 
 💞️ **Collaboration**
@@ -16,7 +17,9 @@ React: Building projects with React.
 I'm open to collaborating on:
 
 Open-source projects :GSSoC
+
 Innovative coding projects
+
 Hackathons and coding competitions
 
 📫 **How to Reach Me**
