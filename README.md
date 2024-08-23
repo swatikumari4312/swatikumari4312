@@ -1,5 +1,5 @@
+![github-header-image (1)](https://github.com/user-attachments/assets/e26f5ab4-a0b4-4bf2-b400-e4ffbefac41f)
 
-<h1 align="center">Hi 👋, I'm Swati kumari</h1>
 <h3 align="center">I'm passionate about coding and constantly exploring new technologies</h3>
 <img align="right" alt="codeing" width="400" src= "https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" />
 
